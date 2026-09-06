@@ -40,14 +40,23 @@ With particular interests in:
 ---
 
 ## 📚 Selected Research
-### 
+### ⭐ Research Work 1
+**«DEVELOPMENT OF AN INTERACTIVE, EDUCATIONAL SITE TO COUNTER SOCIAL ENGINEERING»**
+Qualifying bachelor's thesis, V.N. Karazin Kharkiv National University, 2025
 
-[[QU](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/a83791c272243035149652a8fb2e5ad6d009121d/DEVELOPING%20A%20METHOD%20TO%20COMBAT%20SOCIAL%20ENGINEERING%20AS%20A%20SOCIAL%20INNOVATION.pdf)
+*Research area:* Cybersecurity | Social Engineering and Phishing
+
+Developed an interactive educational web resource combining cybersecurity theory, knowledge assessment, and practical guidance to improve awareness of social engineering and digital security.
+
+Author: Valeriia Yahlo 
+Scientific supervisor: Lubov Filatova
+
+[PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/f29159905dedb959f3b1e75dfc8b2e18276a911b/QUALIFYING%20BACHELOR'S%20THESIS%20%C2%ABDEVELOPMENT%20OF%20AN%20INTERACTIVE%2C%20EDUCATIONAL%20SITE%20TO%20COUNTER%20SOCIAL%20ENGINEERING%C2%BB.pdf)
 
 ## 📚 Publications & Scientific Works
 This section contains my scientific publications, research papers, academic projects, and other research-related work.
 
-### ⭐ Research Work 1
+### ⭐ Publication 1
 
 **[Title of Article / Scientific Paper]**
 
