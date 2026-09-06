@@ -42,7 +42,7 @@ With particular interests in:
 ## 📚 Selected Research
 ### 
 
-social-engineering-research
+QUALIFYING BACHELOR'S THESIS «DEVELOPMENT OF AN INTERACTIVE, EDUCATIONAL SITE TO COUNTER SOCIAL ENGINEERING».pdf
 
 ## 📚 Publications & Scientific Works
 This section contains my scientific publications, research papers, academic projects, and other research-related work.
