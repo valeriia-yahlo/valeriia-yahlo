@@ -42,7 +42,7 @@ With particular interests in:
 ## 📚 Selected Research
 ### 
 
-[QU](./DEVELOPING A METHOD TO COMBAT SOCIAL ENGINEERING AS A SOCIAL INNOVATION.pdf)
+[[QU](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/a83791c272243035149652a8fb2e5ad6d009121d/DEVELOPING%20A%20METHOD%20TO%20COMBAT%20SOCIAL%20ENGINEERING%20AS%20A%20SOCIAL%20INNOVATION.pdf)
 
 ## 📚 Publications & Scientific Works
 This section contains my scientific publications, research papers, academic projects, and other research-related work.
