@@ -28,9 +28,8 @@ With particular interests in:
 
 * 🛡️ Cybersecurity and Information Security
 * 👤 Human Factors in Cybersecurity
-* 🎣 Social Engineering and Phishing
+* 🎣 Social Engineering, Phishing and human-centered cybersecurity
 * 📊 Data Analytics and Risk Management
-* 🏦 Social engineering and human-centered cybersecurity
 * 🔐 Access Control and Information Security Management
 * 🎓 Cybersecurity Education and Awareness
 * 💻 Digital Transformation
@@ -48,8 +47,8 @@ Qualifying bachelor's thesis, V.N. Karazin Kharkiv National University, 2025
 
 Developed an interactive educational web resource combining cybersecurity theory, knowledge assessment, and practical guidance to improve awareness of social engineering and digital security.
 
-<u>Author:</u> Valeriia Yahlo   
-<u>Scientific supervisor:</u> Lubov Filatova
+<ins>Author:</ins> Valeriia Yahlo   
+<ins>Scientific supervisor:</ins> Lubov Filatova
 
 📄 [PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/f29159905dedb959f3b1e75dfc8b2e18276a911b/QUALIFYING%20BACHELOR'S%20THESIS%20%C2%ABDEVELOPMENT%20OF%20AN%20INTERACTIVE%2C%20EDUCATIONAL%20SITE%20TO%20COUNTER%20SOCIAL%20ENGINEERING%C2%BB.pdf)
 
@@ -61,10 +60,24 @@ All-Ukrainian competition of student scientific works in technical fields, 2026
 
 Analyzes the role of personnel management in preventing insider cyber threats in banking, with a focus on HR analytics, compliance, access control, employee screening, and behavioral risk factors.
 
-<u>Author:</u> Valeriia Yahlo 
-Scientific supervisor: Nadiia Morozova
+<ins>Author:</ins> Valeriia Yahlo   
+<ins>Scientific supervisor:<ins> Nadiia Morozova
 
 📄 [PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/b72e3b5f4445845c3074db981c8acfd60caff3c9/PREVENTION%20OF%20INTERNAL%20CYBER%20THREATS%20IN%20A%20FINANCIAL%20INSTITUTION%20THROUGH%20PERSONNEL%20MANAGEMENT.pdf)
+
+### ⭐ Research Work 3
+**«DEVELOPING A METHOD TO COMBAT SOCIAL ENGINEERING AS A SOCIAL INNOVATION»**  
+XV International Scientific and Practical Conference YOUTH SCIENTIFIC RESEARCH ON THE PROBLEMS OF EUROPEAN INTEGRATION, 2026
+
+*Research area:*  Social Engineering and human-centered cybersecurity | Social Innovations
+
+Examines social engineering as a human-centered cybersecurity threat and proposes an interactive educational approach to improve users’ ability to recognize manipulation and respond safely to digital threats.
+
+<ins>Author:</ins> Valeriia Yahlo   
+
+📄 [PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/4e0d086049c4b641ceb3ad3c2ff55e6511337547/DEVELOPING%20A%20METHOD%20TO%20COMBAT%20SOCIAL%20ENGINEERING%20AS%20A%20SOCIAL%20INNOVATION.pdf)
+
+---
 
 ## 📚 Publications & Scientific Works
 This section contains my scientific publications, research papers, academic projects, and other research-related work.
