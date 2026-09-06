@@ -41,17 +41,30 @@ With particular interests in:
 
 ## 📚 Selected Research
 ### ⭐ Research Work 1
-**«DEVELOPMENT OF AN INTERACTIVE, EDUCATIONAL SITE TO COUNTER SOCIAL ENGINEERING»**
+**«DEVELOPMENT OF AN INTERACTIVE, EDUCATIONAL SITE TO COUNTER SOCIAL ENGINEERING»**  
 Qualifying bachelor's thesis, V.N. Karazin Kharkiv National University, 2025
 
-*Research area:* Cybersecurity | Social Engineering and Phishing
+<u>*Research area:* </u> Cybersecurity | Social Engineering and Phishing
 
 Developed an interactive educational web resource combining cybersecurity theory, knowledge assessment, and practical guidance to improve awareness of social engineering and digital security.
 
-Author: Valeriia Yahlo 
-Scientific supervisor: Lubov Filatova
+<u>Author:</u> Valeriia Yahlo   
+<u>Scientific supervisor:</u> Lubov Filatova
 
-[PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/f29159905dedb959f3b1e75dfc8b2e18276a911b/QUALIFYING%20BACHELOR'S%20THESIS%20%C2%ABDEVELOPMENT%20OF%20AN%20INTERACTIVE%2C%20EDUCATIONAL%20SITE%20TO%20COUNTER%20SOCIAL%20ENGINEERING%C2%BB.pdf)
+📄 [PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/f29159905dedb959f3b1e75dfc8b2e18276a911b/QUALIFYING%20BACHELOR'S%20THESIS%20%C2%ABDEVELOPMENT%20OF%20AN%20INTERACTIVE%2C%20EDUCATIONAL%20SITE%20TO%20COUNTER%20SOCIAL%20ENGINEERING%C2%BB.pdf)
+
+### ⭐ Research Work 2
+**«PREVENTION OF INTERNAL CYBER THREATS IN A FINANCIAL INSTITUTION THROUGH PERSONNEL MANAGEMENT»**  
+All-Ukrainian competition of student scientific works in technical fields, 2026
+
+*Research area:* Data Analytics and Risk Management | Access Control and Information Security Management
+
+Analyzes the role of personnel management in preventing insider cyber threats in banking, with a focus on HR analytics, compliance, access control, employee screening, and behavioral risk factors.
+
+<u>Author:</u> Valeriia Yahlo 
+Scientific supervisor: Nadiia Morozova
+
+📄 [PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/b72e3b5f4445845c3074db981c8acfd60caff3c9/PREVENTION%20OF%20INTERNAL%20CYBER%20THREATS%20IN%20A%20FINANCIAL%20INSTITUTION%20THROUGH%20PERSONNEL%20MANAGEMENT.pdf)
 
 ## 📚 Publications & Scientific Works
 This section contains my scientific publications, research papers, academic projects, and other research-related work.
