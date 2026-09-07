@@ -291,17 +291,7 @@ If your research interests overlap with these areas, I would be glad to discuss 
 
 For a detailed overview of my academic background, research experience, projects, skills, and activities:
 
-📄 **[View / Download CV](./CV_Valeria_Yaglo.pdf)**
-
----
-
-## 🔗 Academic Profiles
-
-* 💻 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-* 💼 **LinkedIn:** [LinkedIn Profile]
-* 📚 **Google Scholar:** [Google Scholar Profile]
-* 🔬 **ORCID:** [ORCID Profile]
-* 📖 **ResearchGate:** [ResearchGate Profile]
+📄 **[CV](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/1bfc355884b247b0aad60d4f76cfde1a54ab1493/Yahlo%20Valeriia%20CV.pdf)**
 
 ---
 
@@ -309,11 +299,9 @@ For a detailed overview of my academic background, research experience, projects
 
 For academic and research-related inquiries:
 
-📧 **Email:** [your academic email]
+📧 **Email:** [yahlovaleriia@gmail.com]
 
-💻 **GitHub:** [your GitHub]
-
-💼 **LinkedIn:** [your LinkedIn]
+💻 **GitHub:** [valeriia-yahlo]
 
 ---
 
