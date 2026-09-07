@@ -51,7 +51,8 @@ Developed an interactive educational web resource combining cybersecurity theory
 <ins>Author:</ins> Valeriia Yahlo   
 <ins>Scientific supervisor:</ins> Lubov Filatova
 
-📄 [PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/f29159905dedb959f3b1e75dfc8b2e18276a911b/QUALIFYING%20BACHELOR'S%20THESIS%20%C2%ABDEVELOPMENT%20OF%20AN%20INTERACTIVE%2C%20EDUCATIONAL%20SITE%20TO%20COUNTER%20SOCIAL%20ENGINEERING%C2%BB.pdf)
+📄 [PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/f29159905dedb959f3b1e75dfc8b2e18276a911b/QUALIFYING%20BACHELOR'S%20THESIS%20%C2%ABDEVELOPMENT%20OF%20AN%20INTERACTIVE%2C%20EDUCATIONAL%20SITE%20TO%20COUNTER%20SOCIAL%20ENGINEERING%C2%BB.pdf)  
+
 
 ### ⭐ Research Work 2
 **«PREVENTION OF INTERNAL CYBER THREATS IN A FINANCIAL INSTITUTION THROUGH PERSONNEL MANAGEMENT»**  
@@ -65,7 +66,8 @@ Analyzes the role of personnel management in preventing insider cyber threats in
 <ins>Author:</ins> Valeriia Yahlo   
 <ins>Scientific supervisor:</ins> Nadiia Morozova
 
-📄 [PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/b72e3b5f4445845c3074db981c8acfd60caff3c9/PREVENTION%20OF%20INTERNAL%20CYBER%20THREATS%20IN%20A%20FINANCIAL%20INSTITUTION%20THROUGH%20PERSONNEL%20MANAGEMENT.pdf)
+📄 [PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/b72e3b5f4445845c3074db981c8acfd60caff3c9/PREVENTION%20OF%20INTERNAL%20CYBER%20THREATS%20IN%20A%20FINANCIAL%20INSTITUTION%20THROUGH%20PERSONNEL%20MANAGEMENT.pdf)  
+
 
 ### ⭐ Research Work 3
 **«DEVELOPING A STRATAGY TO CONFRONT SOCIAL ENGINEERING AS A SOCIAL INNOVATIONN»**  
@@ -79,7 +81,7 @@ Examines social engineering as a human-centered cybersecurity threat and propose
 <ins>Author:</ins> Valeriia Yahlo   
 
 📄 [PDF Document](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/4e0d086049c4b641ceb3ad3c2ff55e6511337547/DEVELOPING%20A%20METHOD%20TO%20COMBAT%20SOCIAL%20ENGINEERING%20AS%20A%20SOCIAL%20INNOVATION.pdf)  
-📄 [Сonference papers](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/33edf1e5208115be43417029a622c99648133301/Collection%20of%20reports%20of%20the%20XV%20International%20Scientific%20and%20Practical%20Conference%20YOUTH%20SCIENTIFIC%20RESEARCH%20ON%20THE%20PROBLEMS%20OF%20EUROPEAN%20INTEGRATION.pdf)
+📄 [Сonference papers](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/33edf1e5208115be43417029a622c99648133301/Collection%20of%20reports%20of%20the%20XV%20International%20Scientific%20and%20Practical%20Conference%20YOUTH%20SCIENTIFIC%20RESEARCH%20ON%20THE%20PROBLEMS%20OF%20EUROPEAN%20INTEGRATION.pdf)  
 
 ---
 
@@ -93,7 +95,8 @@ XV International Scientific and Practical Conference YOUTH SCIENTIFIC RESEARCH O
 *Research area:* Human Factors in Cybersecurity | Technology and Risk Management
 
 📄 [PDF Publication](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/c0d195c24a6c4db31c6f633827bc4eb5b6ea55d1/Human%20Resource%20Risks%20and%20Typical%20Manifestations%20of%20Internal%20Threats%20in%20the%20Banking%20Sector.pdf)  
-📄 [Сonference papers](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/33edf1e5208115be43417029a622c99648133301/Collection%20of%20reports%20of%20the%20XV%20International%20Scientific%20and%20Practical%20Conference%20YOUTH%20SCIENTIFIC%20RESEARCH%20ON%20THE%20PROBLEMS%20OF%20EUROPEAN%20INTEGRATION.pdf)
+📄 [Сonference papers](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/33edf1e5208115be43417029a622c99648133301/Collection%20of%20reports%20of%20the%20XV%20International%20Scientific%20and%20Practical%20Conference%20YOUTH%20SCIENTIFIC%20RESEARCH%20ON%20THE%20PROBLEMS%20OF%20EUROPEAN%20INTEGRATION.pdf)  
+
 
 ### ⭐ Publication 2
 **Use of Modern HRM Technologies (Compliance Control, HR Analytics, and Security Systems) in Preventing Internal Threats in Banking Institutions**  
@@ -102,7 +105,8 @@ I All-Ukrainian scientific and practical student conference IT-SPACE TODAY, 2024
 *Research area:* Cybersecurity Education and Awareness | Digital Transformation
 
 📄 [PDF Publication](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/c0d195c24a6c4db31c6f633827bc4eb5b6ea55d1/Use%20of%20Modern%20HRM%20Technologies%20(Compliance%20Control%2C%20HR%20Analytics%2C%20and%20Security%20Systems)%20in%20Preventing%20Internal%20Threats%20in%20Banking%20Institutions.pdf)  
-📄 [Сonference papers](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/33edf1e5208115be43417029a622c99648133301/Collection%20of%20reports%20of%20the%20I%20All-Ukrainian%20scientific%20and%20practical%20student%20conference%20IT-SPACE%20TODAY.pdf)
+📄 [Сonference papers](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/33edf1e5208115be43417029a622c99648133301/Collection%20of%20reports%20of%20the%20I%20All-Ukrainian%20scientific%20and%20practical%20student%20conference%20IT-SPACE%20TODAY.pdf)  
+
 
 ### ⭐ Publication 3
 **Analysis of system research data in modern science and practice, methods, perspectives and interdisciplinary integration**  
@@ -113,6 +117,7 @@ XIV International Scientific and Practical Conference YOUTH SCIENTIFIC RESEARCH 
 📄 [PDF Publication](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/c0d195c24a6c4db31c6f633827bc4eb5b6ea55d1/Analysis%20of%20system%20research%20data%20in%20modern%20science%20and%20practice%2C%20methods%2C%20perspectives%20and%20interdisciplinary%20integration.pdf)  
 📄 [Сonference papers](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/33edf1e5208115be43417029a622c99648133301/Collection%20of%20reports%20of%20the%20XIV%20International%20Scientific%20and%20Practical%20Conference%20YOUTH%20SCIENTIFIC%20RESEARCH%20ON%20THE%20PROBLEMS%20OF%20EUROPEAN%20INTEGRATION.pdf)  
 
+
 ### ⭐ Publication 4
 **Raising awareness of a vulnerable proportion of the population as a method of countering social engineering**  
 XIV International Scientific and Practical Conference YOUTH SCIENTIFIC RESEARCH ON THE PROBLEMS OF EUROPEAN INTEGRATION, 2025
@@ -120,13 +125,14 @@ XIV International Scientific and Practical Conference YOUTH SCIENTIFIC RESEARCH 
 *Research area:* Social Engineering, Phishing and human-centered cybersecurity | Cybersecurity Education
 
 📄 [PDF Publication](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/c0d195c24a6c4db31c6f633827bc4eb5b6ea55d1/Raising%20awareness%20of%20a%20vulnerable%20proportion%20of%20the%20population%20as%20a%20method%20of%20countering%20social%20engineering.pdf)  
-📄 [Сonference papers](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/33edf1e5208115be43417029a622c99648133301/Collection%20of%20reports%20of%20the%20XIV%20International%20Scientific%20and%20Practical%20Conference%20YOUTH%20SCIENTIFIC%20RESEARCH%20ON%20THE%20PROBLEMS%20OF%20EUROPEAN%20INTEGRATION.pdf)
+📄 [Сonference papers](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/33edf1e5208115be43417029a622c99648133301/Collection%20of%20reports%20of%20the%20XIV%20International%20Scientific%20and%20Practical%20Conference%20YOUTH%20SCIENTIFIC%20RESEARCH%20ON%20THE%20PROBLEMS%20OF%20EUROPEAN%20INTEGRATION.pdf)  
+
 
 ### 📖 Other Scientific Works
 
 | Year   | Work    | Research Area | Link   |
 | ------ | ------- | ------------- | ------ |
-| [2026] | [Title] | [Area]        | [Link] |
+|  2024  | Analysis of methods of steganographic transmission of information in software development and construction of system protection logic | Digital Transformation | [Document Link](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/8ed9a7c4a98b4e4a76ac397e7d88321927a3adde/Analysis%20of%20methods%20of%20steganographic%20transmission%20of%20information%20in%20software%20development%20and%20construction%20of%20system%20protection%20logic.pdf) |
 | [2026] | [Title] | [Area]        | [Link] |
 | [2025] | [Title] | [Area]        | [Link] |
 | [2025] | [Title] | [Area]        | [Link] |
