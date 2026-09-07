@@ -144,7 +144,12 @@ XIV International Scientific and Practical Conference YOUTH SCIENTIFIC RESEARCH 
 
 ### 🛡️ Interactive Educational Website Against Social Engineering
 
-An interactive educational platform designed to improve awareness of **social engineering threats** and help users recognize and prevent common social engineering attacks.
+An online educational platform designed to raise awareness about **social engineering threats** and help users recognize and prevent widespread social engineering attacks.
+
+The educational website is controlled by the buttons at the top of the page and contains 3 interactive pages: 
+1. an informative page,
+2. a test page that checks how information has been absorbed from the first theoretical page
+3. a short safety page, as well as with the statistics of previous surveys
 
 The project combines cybersecurity education with interactive learning and assessment.
 
@@ -162,27 +167,21 @@ The project combines cybersecurity education with interactive learning and asses
 
 `HTML` `CSS` `JavaScript` `Flask`
 
-**Project:**
-💻 [GitHub Repository](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/da9eddc13ba3669709008d2134cf5a227c3f235d/%D0%9E%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20%D0%A1%D0%86.html)
-
 **Live Demo:**
 🌐 [Website Link](https://valeriia-yahlo.github.io/social-engineering-website/)
+  
+**Project:**
+💻 [Website Code Link](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/da9eddc13ba3669709008d2134cf5a227c3f235d/%D0%9E%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20%D0%A1%D0%86.html)
 
 **Documentation:**
-📄 [Documentation / Thesis / Project Description](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/a84136463dd223f422a0e7ac63b404d4b806a1ed/QUALIFYING%20BACHELOR'S%20THESIS%20%C2%ABDEVELOPMENT%20OF%20AN%20INTERACTIVE%2C%20EDUCATIONAL%20SITE%20TO%20COUNTER%20SOCIAL%20ENGINEERING%C2%BB.pdf)
-
----
-
-
+📄 [Research file | Thesis](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/a84136463dd223f422a0e7ac63b404d4b806a1ed/QUALIFYING%20BACHELOR'S%20THESIS%20%C2%ABDEVELOPMENT%20OF%20AN%20INTERACTIVE%2C%20EDUCATIONAL%20SITE%20TO%20COUNTER%20SOCIAL%20ENGINEERING%C2%BB.pdf)
 
 ---
 
 ## 🎓 Education
 
-### V. N. Karazin Kharkiv National University
-
-**Master's Degree in Management**
-Karazin Banking Institute
+### Master's Degree in Management and corporate governance
+**V. N. Karazin Kharkiv National University**
 
 **2025 – Present**
 
@@ -197,11 +196,12 @@ Academic interests include:
 
 ---
 
-### V. N. Karazin Kharkiv National University
+### Academic Background in Cybersecurity
+**V. N. Karazin Kharkiv National University**
 
-**Academic Background in Cybersecurity**
+**2021 - 2025**
 
-Previous academic focus:
+Main academic focus:
 
 * Cybersecurity
 * Information Security
@@ -216,12 +216,13 @@ Previous academic focus:
 
 ## 🏆 Academic & Extracurricular Activities
 
-* Participation in academic and scientific activities
-* Research and preparation of scientific publications
-* Development of cybersecurity and educational technology projects
-* Participation in academic competitions and Olympiads
+* Active academic and scientific activities
+* Research and scientific publications
+* Development of projects in cybersecurity and educational technologies
+* Participation in academic competitions and olympiads
 * Student leadership and extracurricular activities
 * Development of interdisciplinary projects combining technology and management
+* Volunteering at the Blood Collection Center
 
 ---
 
@@ -257,24 +258,26 @@ Previous academic focus:
 
 ### Tools
 
-`Git` `GitHub` `Microsoft Excel` `Microsoft Office` `Jupyter Notebook`
+`GitHub` `Jupyter Notebook` `Microsoft Office`
 
 ---
 
 ## 🤝 Research Collaboration
 
-I am interested in collaborating with researchers, faculty members, and students on projects related to:
+I am interested in collaborating with researchers, faculty members, and students on interdisciplinary projects at the intersection of:
 
-* Cybersecurity and social engineering
-* Human-centered cybersecurity
-* Data-driven cybersecurity
-* Cybersecurity awareness and education
-* Cybersecurity in financial institutions
-* Information security management
-* Data analytics for cybersecurity and risk management
-* Digital transformation
-* Technology-enabled risk management
-* Interdisciplinary research combining cybersecurity, analytics, and management
+* Cybersecurity and Information Security
+* Data Analytics and Data-Driven Decision Making
+* Human-Centered Computing and Technology
+* Cybersecurity Risk Management
+* Information Systems and Digital Technologies
+* Artificial Intelligence and Intelligent Systems
+* Privacy, Security, and Trust in Digital Environments
+* Technology Management and Digital Transformation
+* Cybersecurity in Financial and Organizational Contexts
+* Human Factors and Technology Adoption
+* Risk Assessment and Technology-Enabled Management
+* Interdisciplinary research combining cybersecurity, data analytics, information systems, and management
 
 I am particularly interested in opportunities involving:
 
@@ -311,16 +314,6 @@ For academic and research-related inquiries:
 💻 **GitHub:** [your GitHub]
 
 💼 **LinkedIn:** [your LinkedIn]
-
----
-
-## 🌱 Current Academic Focus
-
-Currently, I am developing my academic and research profile with a focus on the intersection of:
-
-> **Cybersecurity + Data Analytics + Human Factors + Management**
-
-My long-term goal is to contribute to research addressing practical cybersecurity and technology-management challenges through **data-driven, interdisciplinary approaches**.
 
 ---
 
