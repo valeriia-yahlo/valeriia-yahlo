@@ -163,13 +163,13 @@ The project combines cybersecurity education with interactive learning and asses
 `HTML` `CSS` `JavaScript` `Flask`
 
 **Project:**
-💻 [GitHub Repository]
+💻 [GitHub Repository](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/da9eddc13ba3669709008d2134cf5a227c3f235d/%D0%9E%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20%D0%A1%D0%86.html)
 
 **Live Demo:**
-🌐 [Website](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/da9eddc13ba3669709008d2134cf5a227c3f235d/%D0%9E%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20%D0%A1%D0%86.html)
+🌐 [Website Link](https://valeriia-yahlo.github.io/social-engineering-website/)
 
 **Documentation:**
-📄 [Documentation / Thesis / Project Description]
+📄 [Documentation / Thesis / Project Description](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/a84136463dd223f422a0e7ac63b404d4b806a1ed/QUALIFYING%20BACHELOR'S%20THESIS%20%C2%ABDEVELOPMENT%20OF%20AN%20INTERACTIVE%2C%20EDUCATIONAL%20SITE%20TO%20COUNTER%20SOCIAL%20ENGINEERING%C2%BB.pdf)
 
 ---
 
