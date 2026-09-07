@@ -132,10 +132,12 @@ XIV International Scientific and Practical Conference YOUTH SCIENTIFIC RESEARCH 
 
 | Year   | Work    | Research Area | Link   |
 | ------ | ------- | ------------- | ------ |
-|  2024  | Analysis of methods of steganographic transmission of information in software development and construction of system protection logic | Digital Transformation | [Document Link](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/8ed9a7c4a98b4e4a76ac397e7d88321927a3adde/Analysis%20of%20methods%20of%20steganographic%20transmission%20of%20information%20in%20software%20development%20and%20construction%20of%20system%20protection%20logic.pdf) |
-| [2026] | [Title] | [Area]        | [Link] |
-| [2025] | [Title] | [Area]        | [Link] |
-| [2025] | [Title] | [Area]        | [Link] |
+|  2024  | Analysis of methods of steganographic transmission 
+of information in software development and construction of system protection logic | Digital Transformation | [Document Link](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/8ed9a7c4a98b4e4a76ac397e7d88321927a3adde/Analysis%20of%20methods%20of%20steganographic%20transmission%20of%20information%20in%20software%20development%20and%20construction%20of%20system%20protection%20logic.pdf) |
+|  2024  | Countering social engineering | Social Engineering, Phishing | [Document Link](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/b9758f686eebe16f30489aaca0f5a4800ab5edb4/Countering%20social%20engineering.pdf) |
+|  2025  | Analysis of data on personnel management practices in Ukrainian banks as a threat prevention tool | Cybersecurity and Information Security, Human Factors | [Document Link](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/b9758f686eebe16f30489aaca0f5a4800ab5edb4/Analysis%20of%20data%20on%20personnel%20management%20practices%20in%20Ukrainian%20banks%20as%20a%20threat%20prevention%20tool.pdf) |
+|  2023  | Virtual reality and its application in education and culture | Cybersecurity Education and Awareness | [Document Link](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/b9758f686eebe16f30489aaca0f5a4800ab5edb4/Virtual%20reality%20and%20its%20application%20in%20education%20and%20culture.pdf) |
+|  2023  | Relevance, development prospects and peculiarities of the functioning of the online education market | Interdisciplinary Cybersecurity Research | [Document Link](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/b9758f686eebe16f30489aaca0f5a4800ab5edb4/Relevance%2C%20development%20prospects%20and%20peculiarities%20of%20the%20functioning%20of%20the%20online%20education%20market.pdf) |
 
 ---
 
@@ -172,42 +174,7 @@ The project combines cybersecurity education with interactive learning and asses
 
 ---
 
-### 📊 Data Analytics Project
 
-**[Project Title]**
-
-[Short description of the problem, dataset, methodology, and results.]
-
-**Technologies:**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Jupyter Notebook`
-
-**Links:**
-
-💻 [Repository]
-📊 [Notebook / Analysis]
-📄 [Documentation]
-
----
-
-### 🔐 Cybersecurity Project
-
-**[Project Title]**
-
-[Short description of the cybersecurity problem and implemented solution.]
-
-**Topics:**
-
-* Information Security
-* Cybersecurity
-* Risk Management
-* Access Control
-* Security Analysis
-
-**Links:**
-
-💻 [Repository]
-📄 [Documentation]
 
 ---
 
