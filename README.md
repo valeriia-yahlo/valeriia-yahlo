@@ -160,13 +160,13 @@ The project combines cybersecurity education with interactive learning and asses
 
 **Technologies:**
 
-`Python` `Flask` `HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Flask`
 
 **Project:**
 💻 [GitHub Repository]
 
 **Live Demo:**
-🌐 [Website]
+🌐 [Website](https://github.com/valeriia-yahlo/valeriia-yahlo/blob/da9eddc13ba3669709008d2134cf5a227c3f235d/%D0%9E%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20%D0%A1%D0%86.html)
 
 **Documentation:**
 📄 [Documentation / Thesis / Project Description]
