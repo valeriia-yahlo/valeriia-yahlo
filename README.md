@@ -180,7 +180,7 @@ The project combines cybersecurity education with interactive learning and asses
 
 ## 🎓 Education
 
-### Master's Degree in Management and corporate governance
+### 📚 Master's Degree in Management and corporate governance
 **V. N. Karazin Kharkiv National University**
 
 **2025 – Present**
@@ -196,7 +196,7 @@ Academic interests include:
 
 ---
 
-### Academic Background in Cybersecurity
+### 📚 Bachelor's Degree in Cybersecurity
 **V. N. Karazin Kharkiv National University**
 
 **2021 - 2025**
